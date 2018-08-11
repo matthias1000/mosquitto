@@ -92,4 +92,5 @@ MOSQ_1.5 {
 		mosquitto_connect_with_flags_callback_set;
 		mosquitto_tls_engine_set;
 		mosquitto_tls_keyform_set;
+		mosquitto_tls_engine_kpass_sha_set;
 } MOSQ_1.4;
